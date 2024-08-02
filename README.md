@@ -1,5 +1,5 @@
 # <p align="center"> Portfolio - Animation - Smooth - NextJS - TypeScript </p>  
- 
+  
 - NextJS
 - ReactJS
 - TypeScript
