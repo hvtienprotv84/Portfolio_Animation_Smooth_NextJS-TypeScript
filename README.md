@@ -1,7 +1,7 @@
 # <p align="center"> Portfolio - Animation - Smooth - NextJS - TypeScript </p>  
   
 - NextJS 
-- ReactJS
+- ReactJS 
 - TypeScript
 - Framer-Motion
 - Tailwind CSS
