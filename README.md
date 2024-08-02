@@ -1,6 +1,6 @@
 # <p align="center"> Portfolio - Animation - Smooth - NextJS - TypeScript </p>  
   
-- NextJS 
+- NextJS  
 - ReactJS 
 - TypeScript
 - Framer-Motion
