@@ -12,9 +12,5 @@
 
 
 ## Run
-    ```sh
-    npm install
-    ```
-    ```sh
-    npm run dev
-    ```
+- `npm install`
+- `npm run dev`
