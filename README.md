@@ -1,4 +1,4 @@
-# <p align="center"> Portfolio - Animation - Smooth - NextJS - TypeScript </p>
+# <p align="center"> Portfolio - Animation - Smooth - NextJS - TypeScript </p> 
 
 - NextJS
 - ReactJS
